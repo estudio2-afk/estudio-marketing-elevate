@@ -1,19 +1,19 @@
 export const processSteps = [
   {
-    title: "Reunião gratuita de 30 min",
-    desc: "Conversamos sobre seu negócio, entendemos o que está travando suas vendas no digital e mostramos por onde começar.",
+    title: "Conversamos sobre seu negócio",
+    desc: "Entendemos o que está travando suas vendas no digital e mostramos por onde começar a transformar o digital em canal de aquisição de clientes.",
   },
   {
     title: "Diagnóstico e plano",
     desc: "Montamos uma estratégia personalizada — serviços, frequência, formato e investimento que faz sentido pro seu tamanho.",
   },
   {
-    title: "Calendário aprovado por você",
-    desc: "Você recebe o calendário editorial do mês e aprova antes da gente produzir. Zero surpresa.",
+    title: "Cada post aprovado por você",
+    desc: "Você recebe o calendário editorial e aprova cada post individualmente pela nossa estrutura. Zero surpresa, total transparência.",
   },
   {
     title: "Produção e publicação",
-    desc: "Vamos ao seu negócio gravar, fotografar e produzir. Postamos, gerenciamos comentários e cuidamos do dia a dia.",
+    desc: "Vamos ao seu negócio gravar, fotografar e produzir. Fornecemos direcionamento para stories e cuidamos do dia a dia.",
   },
   {
     title: "Relatório e ajustes",
