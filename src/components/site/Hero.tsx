@@ -56,7 +56,7 @@ export function Hero() {
               <div className="space-y-3">
                 <div className="text-xs uppercase tracking-widest text-primary/90">Resultado esperado</div>
                 <div className="font-display text-3xl font-bold leading-tight text-white">
-                  Mais clientes entrando pelo digital — em 30 a 60 dias. Resultados sólidos a partir do terceiro mês.
+                  Negócios que seguem o plano costumam ver mais clientes do digital em 30 a 60 dias. Resultados sólidos a partir do terceiro mês.
                 </div>
               </div>
               <div className="grid grid-cols-3 gap-3">
