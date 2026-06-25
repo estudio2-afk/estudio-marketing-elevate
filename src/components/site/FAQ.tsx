@@ -35,6 +35,10 @@ export const faqs = [
     a: "Nosso foco em tráfego pago é Meta Ads (Instagram e Facebook), por ser o canal de melhor custo-benefício para negócio local. Para Google trabalhamos com tráfego orgânico (SEO) e Google Meu Negócio. Google Ads em breve entra no nosso portfólio.",
   },
   {
+    q: "Vocês só fazem marketing ou ajudam a vender mais também?",
+    a: "Dependendo do plano, entramos no seu setor comercial: ajudamos a estabelecer metas de faturamento, analisar sazonalidade, treinar o atendimento do time de vendas e criar estratégias de retenção e aumento de ticket médio. O objetivo é multiplicar o faturamento com a base de clientes que você já tem, enquanto o tráfego pago expande essa base.",
+  },
+  {
     q: "E se eu não gostar do resultado depois de 1 mês?",
     a: "Nosso contrato mínimo é de 6 meses, com resultados sólidos prometidos a partir do terceiro mês (90 dias). Cancelamento antes do fim do período tem multa de 50% do valor do contrato. Mensalmente a gente se alinha sobre ajustes e evolução da estratégia.",
   },
