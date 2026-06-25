@@ -3,6 +3,7 @@ import { SiteHeader } from "@/components/site/SiteHeader";
 import { Hero } from "@/components/site/Hero";
 import { AboutSection } from "@/components/site/AboutSection";
 import { ServicesSection } from "@/components/site/ServicesSection";
+import { CommercialGrowthSection } from "@/components/site/CommercialGrowthSection";
 import { BenefitsSection } from "@/components/site/BenefitsSection";
 import { ProcessSection, processSteps } from "@/components/site/ProcessSection";
 import { LocationSection } from "@/components/site/LocationSection";
@@ -192,6 +193,7 @@ function Landing() {
         <Hero />
         <AboutSection />
         <ServicesSection />
+        <CommercialGrowthSection />
         <BenefitsSection />
         <ProcessSection />
         <LocationSection />
