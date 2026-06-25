@@ -41,6 +41,11 @@ const services = [
     title: "Tráfego pago — Meta Ads",
     desc: "Campanhas no Instagram e Facebook focadas em região, público e oferta. Cada real investido com objetivo claro.",
   },
+  {
+    icon: TrendingUp,
+    title: "Acompanhamento comercial e vendas",
+    desc: "Metas de faturamento, análise de sazonalidade, atendimento do time, retenção e aumento de ticket médio — para multiplicar o resultado com a base que você já tem.",
+  },
 ];
 
 export function ServicesSection() {
