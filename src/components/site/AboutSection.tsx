@@ -2,7 +2,7 @@ import { Camera, Users, Target, MapPin } from "lucide-react";
 
 const stats = [
   { icon: MapPin, k: "5 cidades", v: "São Mateus, Guriri, Jaguaré, Pedro Canário e Conceição da Barra" },
-  { icon: Camera, k: "Estúdio próprio", v: "Vídeo e foto sem terceirizar" },
+  { icon: Camera, k: "Equipamento próprio", v: "Vídeo e foto feitos no seu negócio, sem terceirizar" },
   { icon: Users, k: "5,0 no Google", v: "Avaliações reais de clientes" },
   { icon: Target, k: "Foco em vendas", v: "Cada ação pensada para gerar cliente" },
 ];

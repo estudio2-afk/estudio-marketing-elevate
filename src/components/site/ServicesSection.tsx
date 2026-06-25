@@ -13,7 +13,7 @@ const services = [
   {
     icon: Instagram,
     title: "Gestão de redes sociais",
-    desc: "Estratégia, calendário editorial aprovado por você, postagens, stories e métricas que mostram o que está dando resultado.",
+    desc: "Estratégia, calendário editorial aprovado por você, postagens, direcionamento para stories e métricas que mostram o que está dando resultado.",
   },
   {
     icon: Video,

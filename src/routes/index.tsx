@@ -16,7 +16,7 @@ const SITE_URL = "https://www.estudio2marketing.com.br";
 const OG = `${SITE_URL}/og-estudio-2-marketing.jpg`;
 const TITLE = "Estúdio 2 Marketing — Agência Digital em São Mateus/ES";
 const DESC =
-  "Gestão de redes, reels com equipamento próprio, sites e Meta Ads para negócios locais em São Mateus, Guriri, Jaguaré e região. Agende uma reunião gratuita.";
+  "Gestão de redes, reels com equipamento próprio, sites e Meta Ads para negócios locais em São Mateus, Guriri, Jaguaré e região. Vamos conversar sobre seu negócio e mostrar por onde começar.";
 
 const orgSchema = {
   "@context": "https://schema.org",
