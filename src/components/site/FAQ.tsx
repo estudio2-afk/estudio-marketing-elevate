@@ -12,19 +12,19 @@ export const faqs = [
   },
   {
     q: "Quanto custa para contratar o Estúdio 2 Marketing?",
-    a: "Não trabalhamos com pacote engessado. O investimento é definido conforme o tamanho do seu negócio, os serviços contratados e a frequência de produção. Na reunião gratuita de 30 minutos a gente já te passa um valor real.",
+    a: "Não trabalhamos com pacote engessado. O investimento é definido conforme o tamanho do seu negócio, os serviços contratados e a frequência de produção. Na conversa inicial a gente já te passa um valor real.",
   },
   {
     q: "Em quanto tempo começo a ver resultado?",
-    a: "Os primeiros sinais (mais alcance, comentários, mensagens) costumam aparecer em 30 a 45 dias. Resultado consistente em vendas vem entre 60 e 90 dias, dependendo do segmento, do investimento em tráfego e da maturidade do seu negócio.",
+    a: "Os primeiros sinais (mais alcance, comentários, mensagens) costumam aparecer em 30 a 45 dias. Resultado consistente em vendas vem a partir de 90 dias, dependendo do segmento, do investimento em tráfego e da maturidade do seu negócio.",
   },
   {
     q: "Vocês produzem o vídeo e a foto ou eu preciso enviar?",
-    a: "Nós produzimos. Vamos presencialmente ao seu negócio com equipamento profissional próprio — câmera, microfone, iluminação. Você não precisa se preocupar em gravar nada sozinho.",
+    a: "Nós produzimos. Vamos presencialmente ao seu negócio com equipamento profissional próprio — câmera, microfone, iluminação. Para stories, não gravamos no lugar do cliente: o próprio cliente interage com o público dele. Mas fornecemos o direcionamento completo para que cada story converta.",
   },
   {
     q: "Posso aprovar o conteúdo antes de ser publicado?",
-    a: "Sim, sempre. Você recebe o calendário editorial do mês com tema, formato e texto. Só depois da sua aprovação a gente parte para a produção e publicação.",
+    a: "Sim, cada post é aprovado individualmente por você através da nossa estrutura. Além do calendário editorial, você sabe exatamente o que está acontecendo.",
   },
   {
     q: "Preciso já ter Instagram ou posso começar do zero?",
@@ -32,11 +32,11 @@ export const faqs = [
   },
   {
     q: "Vocês fazem anúncio no Google também?",
-    a: "Nosso foco em tráfego pago é Meta Ads (Instagram e Facebook), por ser o canal de melhor custo-benefício para negócio local. Para Google trabalhamos com tráfego orgânico (SEO) e Google Meu Negócio.",
+    a: "Nosso foco em tráfego pago é Meta Ads (Instagram e Facebook), por ser o canal de melhor custo-benefício para negócio local. Para Google trabalhamos com tráfego orgânico (SEO) e Google Meu Negócio. Google Ads em breve entra no nosso portfólio.",
   },
   {
     q: "E se eu não gostar do resultado depois de 1 mês?",
-    a: "Não trabalhamos com fidelidade longa. A gente combina mensalmente e, se em algum momento você quiser pausar ou encerrar, basta avisar com antecedência mínima combinada em contrato.",
+    a: "Nosso contrato mínimo é de 6 meses, com resultados sólidos prometidos a partir do terceiro mês (90 dias). Cancelamento antes do fim do período tem multa de 50% do valor do contrato. Mensalmente a gente se alinha sobre ajustes e evolução da estratégia.",
   },
 ];
 
