@@ -33,8 +33,8 @@ export function SiteHeader() {
         </nav>
         <div className="hidden md:block">
           <Button asChild size="sm" className="font-semibold">
-            <a href={waLink("Header", "agendar a reunião gratuita de 30 minutos")} target="_blank" rel="noopener">
-              Reunião gratuita
+            <a href={waLink("Header", "conversar sobre meu negócio")} target="_blank" rel="noopener">
+              {CTA.hero}
             </a>
           </Button>
         </div>
@@ -58,8 +58,8 @@ export function SiteHeader() {
                 </a>
               ))}
               <Button asChild className="mt-4 font-semibold" onClick={() => setOpen(false)}>
-                <a href={waLink("Menu mobile", "agendar a reunião gratuita")} target="_blank" rel="noopener">
-                  Reunião gratuita
+                <a href={waLink("Menu mobile", "conversar sobre meu negócio")} target="_blank" rel="noopener">
+                  {CTA.hero}
                 </a>
               </Button>
             </nav>

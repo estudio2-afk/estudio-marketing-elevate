@@ -27,7 +27,7 @@ export function Hero() {
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <Button asChild size="lg" className="h-12 px-6 text-base font-semibold shadow-glow">
-              <a href={waLink("Hero", "agendar a reunião gratuita de 30 minutos")} target="_blank" rel="noopener">
+              <a href={waLink("Hero", "conversar sobre meu negócio")} target="_blank" rel="noopener">
                 {CTA.hero}
                 <ArrowRight className="ml-1 h-5 w-5" />
               </a>
@@ -56,7 +56,7 @@ export function Hero() {
               <div className="space-y-3">
                 <div className="text-xs uppercase tracking-widest text-primary/90">Resultado esperado</div>
                 <div className="font-display text-3xl font-bold leading-tight text-white">
-                  Mais clientes entrando pelo digital — em 30 a 60 dias.
+                  Mais clientes entrando pelo digital — em 30 a 60 dias. Resultados sólidos a partir do terceiro mês.
                 </div>
               </div>
               <div className="grid grid-cols-3 gap-3">

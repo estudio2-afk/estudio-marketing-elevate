@@ -16,7 +16,7 @@ export function emailLink(assunto: string): string {
 }
 
 export const CTA = {
-  hero: "Quero agendar minha reunião gratuita",
+  hero: "Quero conversar sobre meu negócio",
   float: "Tirar uma dúvida rápida",
   final: "Quero começar agora",
   service: "Quero saber mais sobre este serviço",

@@ -9,12 +9,12 @@ const benefits = [
   {
     icon: Camera,
     title: "Equipamento próprio, sem terceirizar",
-    desc: "Vídeo e foto profissionais feitos pelo nosso time. Sem perder qualidade, sem ficar dependendo de freelancer.",
+    desc: "Vídeo e foto profissionais feitos no seu negócio pelo nosso time. Sem perder qualidade, sem ficar dependendo de freelancer.",
   },
   {
     icon: ClipboardCheck,
-    title: "Você aprova antes de tudo",
-    desc: "Calendário editorial e roteiros enviados pra você. Sem surpresa, sem retrabalho, sem post fora do tom da sua marca.",
+    title: "Cada post aprovado por você",
+    desc: "Não só enviamos o calendário editorial: cada post é aprovado individualmente. Você sabe exatamente o que está acontecendo.",
   },
   {
     icon: Target,
