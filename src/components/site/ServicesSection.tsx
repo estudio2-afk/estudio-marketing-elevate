@@ -5,6 +5,7 @@ import {
   Search,
   LayoutTemplate,
   Megaphone,
+  TrendingUp,
   ArrowRight,
 } from "lucide-react";
 import { waLink, CTA } from "@/lib/contact";
