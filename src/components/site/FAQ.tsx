@@ -12,7 +12,7 @@ export const faqs = [
   },
   {
     q: "Quanto custa para contratar o Estúdio 2 Marketing?",
-    a: "Não trabalhamos com pacote engessado. O investimento é definido conforme o tamanho do seu negócio, os serviços contratados e a frequência de produção. Na conversa inicial a gente já te passa um valor real.",
+    a: "Não trabalhamos com pacote engessado. O investimento é definido conforme o tamanho do seu negócio, os serviços contratados e a frequência de produção. O valor é enviado depois da nossa conversa inicial, em uma proposta personalizada feita de acordo com o que foi discutido.",
   },
   {
     q: "Em quanto tempo começo a ver resultado?",
