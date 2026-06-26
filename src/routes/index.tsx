@@ -8,6 +8,7 @@ import { BenefitsSection } from "@/components/site/BenefitsSection";
 import { ProcessSection, processSteps } from "@/components/site/ProcessSection";
 import { LocationSection } from "@/components/site/LocationSection";
 import { Testimonials, testimonials } from "@/components/site/Testimonials";
+import { CaseStudy } from "@/components/site/CaseStudy";
 import { FAQ, faqs } from "@/components/site/FAQ";
 import { FinalCTA } from "@/components/site/FinalCTA";
 import { SiteFooter } from "@/components/site/SiteFooter";
@@ -197,6 +198,7 @@ function Landing() {
         <BenefitsSection />
         <ProcessSection />
         <LocationSection />
+        <CaseStudy />
         <Testimonials />
         <FAQ />
         <FinalCTA />

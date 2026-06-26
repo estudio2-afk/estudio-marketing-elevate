@@ -22,7 +22,7 @@ export function Hero() {
 
           <p className="mt-6 max-w-xl text-lg text-white/75">
             Gestão de redes sociais, produção de <strong className="text-white font-semibold">reels com equipamento próprio</strong>, tráfego pago no Meta Ads e sites que convertem.
-            Foco em <strong className="text-white font-semibold">cliente real</strong>, não em curtida.
+            Nosso trabalho é fazer <strong className="text-white font-semibold">mais potenciais clientes</strong> descobrirem, seguirem e comprarem do seu negócio.
           </p>
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">

@@ -15,11 +15,12 @@ export function LocationSection() {
         <div>
           <p className="text-sm font-semibold uppercase tracking-widest text-primary">Onde estamos</p>
           <h2 className="mt-3 font-display text-3xl font-bold tracking-tight sm:text-4xl">
-            Atendemos toda a região de <span className="text-primary">São Mateus e norte do ES</span>.
+            Sede em <span className="text-primary">Guriri, São Mateus — ES</span>.
           </h2>
           <p className="mt-4 text-base text-muted-foreground">
-            Sede em Guriri, São Mateus — ES. Atendimento presencial para produção de vídeo e foto
-            em São Mateus, Jaguaré, Pedro Canário e Conceição da Barra.
+            Atendimento presencial para produção de vídeo e foto em São Mateus, Guriri, Jaguaré, Pedro
+            Canário e Conceição da Barra. Para gestão de redes e tráfego pago atendemos qualquer cidade
+            do Brasil de forma remota.
           </p>
 
           <address className="mt-8 space-y-4 not-italic">
