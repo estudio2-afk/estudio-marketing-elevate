@@ -10,7 +10,7 @@ export function FinalCTA() {
           <div aria-hidden className="pointer-events-none absolute -right-20 -top-20 h-72 w-72 rounded-full bg-white/10 blur-3xl" />
           <div className="relative max-w-3xl">
             <p className="text-sm font-semibold uppercase tracking-widest text-white/85">Conversa sem custo</p>
-            <h2 className="mt-3 font-display text-3xl font-bold leading-tight text-white sm:text-4xl lg:text-5xl">
+            <h2 className="mt-3 font-display text-[28px] font-bold leading-[1.1] text-white sm:text-4xl lg:text-5xl">
               Vamos conversar sobre seu negócio e mostrar como transformar o digital em um canal de clientes recorrentes.
             </h2>
             <p className="mt-5 max-w-2xl text-base text-white/90">
