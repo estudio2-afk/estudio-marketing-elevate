@@ -18,10 +18,10 @@ export function FinalCTA() {
               prático — contratando a gente ou não.
             </p>
             <div className="mt-8 flex flex-col gap-3 sm:flex-row">
-              <Button asChild size="lg" variant="secondary" className="h-12 px-6 text-base font-semibold">
+              <Button asChild size="lg" variant="secondary" className="min-h-12 w-full max-w-full whitespace-normal px-4 py-3 text-base font-semibold leading-tight sm:w-auto sm:px-6">
                 <a href={waLink("CTA Final", "conversar sobre meu negócio")} target="_blank" rel="noopener">
                   <MessageCircle className="mr-1 h-5 w-5" />
-                  {CTA.hero}
+                  <span className="min-w-0 text-center">{CTA.hero}</span>
                   <ArrowRight className="ml-1 h-5 w-5" />
                 </a>
               </Button>
