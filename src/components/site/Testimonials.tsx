@@ -2,6 +2,13 @@ import { Star, BadgeCheck } from "lucide-react";
 
 export const testimonials = [
   {
+    name: "Edmara Araújo",
+    role: "Aroeira Móveis",
+    text: "Excelentes profissionais qualificados e competentes. Parabéns!",
+    rating: 5,
+    date: "2026-06-26",
+  },
+  {
     name: "Dra. Joici Escarabelle",
     role: "Cliente — Saúde",
     text: "Minha experiência tem sido excelente. Além de serem extremamente profissionais, são atenciosos, prestativos e sempre dispostos a ajudar. Tenho percebido o cuidado e a dedicação em cada detalhe, desde a criação dos conteúdos até o acompanhamento das estratégias. Desde que assumiram minhas redes, percebi uma mudança muito positiva na qualidade dos conteúdos e na forma como minha marca é apresentada.",
