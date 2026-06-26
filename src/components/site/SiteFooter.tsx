@@ -59,7 +59,7 @@ export function SiteFooter() {
 
         <div className="mt-12 flex flex-wrap items-center justify-between gap-3 border-t border-border pt-6 text-xs text-muted-foreground">
           <p>© {year} Estúdio 2 Marketing. Todos os direitos reservados.</p>
-          <p>CNPJ <span className="font-medium">&lt;placeholder — preencher&gt;</span></p>
+          <p>CNPJ <span className="font-medium">62.583.360/0001-10</span></p>
         </div>
       </div>
     </footer>
