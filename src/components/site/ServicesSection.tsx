@@ -74,11 +74,12 @@ export function ServicesSection() {
               </div>
               <h3 className="mt-5 font-display text-lg font-bold">{s.title}</h3>
               <p className="mt-2 flex-1 text-sm leading-relaxed text-muted-foreground">{s.desc}</p>
+              <p className="mt-4 text-sm font-semibold text-primary">A partir de R$ 1.000/mês</p>
               <a
                 href={waLink(`Serviço: ${s.title}`, `saber mais sobre ${s.title}`)}
                 target="_blank"
                 rel="noopener"
-                className="mt-5 inline-flex items-center gap-1.5 text-sm font-semibold text-primary hover:gap-2.5 transition-all"
+                className="mt-3 inline-flex items-center gap-1.5 text-sm font-semibold text-primary hover:gap-2.5 transition-all"
               >
                 Quero este serviço <ArrowRight className="h-4 w-4" />
               </a>
