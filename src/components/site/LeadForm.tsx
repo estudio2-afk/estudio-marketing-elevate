@@ -399,17 +399,17 @@ export function LeadForm() {
                 type="submit"
                 size="lg"
                 disabled={form.formState.isSubmitting}
-                className="h-auto min-h-14 w-full bg-primary px-4 py-3 text-center text-sm font-semibold leading-tight text-primary-foreground shadow-[var(--shadow-glow)] hover:bg-primary/90 sm:px-6 sm:text-base"
+                className="relative h-auto min-h-14 w-full bg-primary px-4 py-3 text-center text-sm font-semibold leading-tight text-primary-foreground shadow-[var(--shadow-glow)] hover:bg-primary/90 sm:px-6 sm:text-base"
               >
                 {form.formState.isSubmitting ? (
                   <>
-                    <Loader2 className="mr-2 h-5 w-5 animate-spin" />
-                    Enviando...
+                    <span className="w-full pr-10 text-center">Enviando...</span>
+                    <Loader2 className="absolute right-4 top-1/2 h-5 w-5 -translate-y-1/2 animate-spin" />
                   </>
                 ) : (
                   <>
-                    <span className="flex-1 text-center">Quero conversar sobre meu negócio</span>
-                    <ArrowRight className="ml-1 h-5 w-5 shrink-0" />
+                    <span className="w-full pr-10 text-center">Quero conversar sobre meu negócio</span>
+                    <ArrowRight className="absolute right-4 top-1/2 h-5 w-5 -translate-y-1/2" />
                   </>
                 )}
               </Button>
