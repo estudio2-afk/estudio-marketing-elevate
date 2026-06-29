@@ -1,6 +1,6 @@
 import { ArrowRight, MapPin, Star } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { waLink, CTA } from "@/lib/contact";
+import { CTA } from "@/lib/contact";
 
 export function Hero() {
   return (
