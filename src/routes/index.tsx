@@ -216,7 +216,6 @@ function Landing() {
         <Testimonials />
         <LeadForm />
         <FAQ />
-        <FinalCTA />
       </main>
       <SiteFooter />
       <WhatsAppFloat />
