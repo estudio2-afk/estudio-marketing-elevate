@@ -214,6 +214,7 @@ function Landing() {
         <LocationSection />
         <CaseStudy />
         <Testimonials />
+        <LeadForm />
         <FAQ />
         <FinalCTA />
       </main>
