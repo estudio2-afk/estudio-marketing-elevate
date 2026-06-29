@@ -3,7 +3,7 @@ import { Menu } from "lucide-react";
 import logo from "@/assets/logo.png";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger, SheetTitle } from "@/components/ui/sheet";
-import { waLink, CTA } from "@/lib/contact";
+import { CTA } from "@/lib/contact";
 
 const links = [
   { href: "#servicos", label: "Serviços" },
@@ -33,7 +33,7 @@ export function SiteHeader() {
         </nav>
         <div className="hidden md:block">
           <Button asChild size="sm" className="font-semibold">
-            <a href={waLink("Header", "conversar sobre meu negócio")} target="_blank" rel="noopener">
+            <a href="#contato">
               {CTA.hero}
             </a>
           </Button>
@@ -58,7 +58,7 @@ export function SiteHeader() {
                 </a>
               ))}
               <Button asChild className="mt-4 font-semibold" onClick={() => setOpen(false)}>
-                <a href={waLink("Menu mobile", "conversar sobre meu negócio")} target="_blank" rel="noopener">
+                <a href="#contato">
                   {CTA.hero}
                 </a>
               </Button>

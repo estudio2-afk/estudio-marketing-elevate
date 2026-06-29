@@ -163,17 +163,21 @@ export function LeadForm() {
             <p className="mt-3 text-muted-foreground">
               Em até 24 horas a gente te chama no WhatsApp. Se quiser adiantar, fale com a gente agora:
             </p>
-            <div className="mt-6 flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
+            <div className="mt-6 flex justify-center">
               <Button asChild size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
                 <a href={waUrl} target="_blank" rel="noopener">
                   <MessageCircle className="mr-1 h-5 w-5" />
                   Falar no WhatsApp agora
                 </a>
               </Button>
-              <Button variant="outline" size="lg" onClick={() => setSent(false)}>
-                Enviar outra mensagem
-              </Button>
             </div>
+            <button
+              type="button"
+              onClick={() => setSent(false)}
+              className="mt-4 text-xs text-muted-foreground underline-offset-4 hover:text-foreground hover:underline"
+            >
+              Enviou por engano? Preencher o formulário novamente
+            </button>
           </div>
         </div>
       </section>
