@@ -58,7 +58,7 @@ export function SiteHeader() {
                 </a>
               ))}
               <Button asChild className="mt-4 font-semibold" onClick={() => setOpen(false)}>
-                <a href={waLink("Menu mobile", "conversar sobre meu negócio")} target="_blank" rel="noopener">
+                <a href="#contato">
                   {CTA.hero}
                 </a>
               </Button>
