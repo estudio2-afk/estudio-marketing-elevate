@@ -50,7 +50,7 @@ export function LocationSection() {
           </address>
 
           <Button asChild className="mt-8 font-semibold">
-            <a href={waLink("Localização", "agendar uma reunião")} target="_blank" rel="noopener">
+            <a href="#contato">
               Agendar conversa
             </a>
           </Button>
