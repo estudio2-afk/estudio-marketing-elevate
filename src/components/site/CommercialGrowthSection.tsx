@@ -1,5 +1,5 @@
 import { TrendingUp, Users, Target, Repeat, BarChart3, ArrowRight } from "lucide-react";
-import { waLink, CTA } from "@/lib/contact";
+import { CTA } from "@/lib/contact";
 
 const cycle = [
   {
