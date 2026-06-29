@@ -43,7 +43,6 @@ const REVENUE = [
   "R$ 10 mil a R$ 30 mil",
   "R$ 30 mil a R$ 100 mil",
   "Acima de R$ 100 mil",
-  "Prefiro não informar",
 ] as const;
 
 const SERVICES = [
@@ -192,10 +191,10 @@ export function LeadForm() {
             Conte sobre seu negócio.{" "}
             <span className="text-primary">A gente responde com um plano.</span>
           </h2>
-          <p className="mt-4 text-muted-foreground">
-            Preencha os campos abaixo. Em até 1 dia útil retornamos no WhatsApp com um diagnóstico
-            inicial — sem custo e sem compromisso.
-          </p>
+            <p className="mt-4 text-muted-foreground">
+              Preencha os campos abaixo. Retornamos em até 24 horas no WhatsApp com um diagnóstico
+              inicial — sem custo e sem compromisso.
+            </p>
         </div>
 
         <div className="mt-10 rounded-3xl border border-border bg-card p-6 shadow-sm sm:p-10">
