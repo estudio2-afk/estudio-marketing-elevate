@@ -4,7 +4,7 @@ import { waLink, CTA } from "@/lib/contact";
 
 export function FinalCTA() {
   return (
-    <section id="contato" className="section-y bg-surface text-surface-foreground">
+    <section className="section-y bg-surface text-surface-foreground">
       <div className="container-page">
         <div className="relative overflow-hidden rounded-3xl border border-white/10 bg-gradient-to-br from-primary via-primary to-primary/80 p-10 sm:p-14">
           <div aria-hidden className="pointer-events-none absolute -right-20 -top-20 h-72 w-72 rounded-full bg-white/10 blur-3xl" />
