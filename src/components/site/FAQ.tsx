@@ -32,7 +32,7 @@ export const faqs = [
   },
   {
     q: "Vocês fazem anúncio no Google também?",
-    a: "Nosso foco em tráfego pago é Meta Ads (Instagram e Facebook), por ser o canal de melhor custo-benefício para negócio local. Para Google trabalhamos com tráfego orgânico (SEO) e Google Meu Negócio. Google Ads em breve entra no nosso portfólio.",
+    a: "Atualmente, nosso tráfego pago é focado em Meta Ads (Instagram e Facebook). Para o Google, trabalhamos com tráfego orgânico (SEO) e Google Meu Negócio. Google Ads entra em breve no nosso portfólio de serviços.",
   },
   {
     q: "Vocês só fazem marketing ou ajudam a vender mais também?",

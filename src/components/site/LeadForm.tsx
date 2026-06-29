@@ -43,7 +43,6 @@ const REVENUE = [
   "R$ 10 mil a R$ 30 mil",
   "R$ 30 mil a R$ 100 mil",
   "Acima de R$ 100 mil",
-  "Prefiro não informar",
 ] as const;
 
 const SERVICES = [
@@ -162,7 +161,7 @@ export function LeadForm() {
               Recebemos seu contato!
             </h2>
             <p className="mt-3 text-muted-foreground">
-              Em até 1 dia útil a gente te chama no WhatsApp. Se quiser adiantar, fale com a gente agora:
+              Em até 24 horas a gente te chama no WhatsApp. Se quiser adiantar, fale com a gente agora:
             </p>
             <div className="mt-6 flex flex-col items-center gap-3 sm:flex-row sm:justify-center">
               <Button asChild size="lg" className="bg-primary text-primary-foreground hover:bg-primary/90">
@@ -192,10 +191,10 @@ export function LeadForm() {
             Conte sobre seu negócio.{" "}
             <span className="text-primary">A gente responde com um plano.</span>
           </h2>
-          <p className="mt-4 text-muted-foreground">
-            Preencha os campos abaixo. Em até 1 dia útil retornamos no WhatsApp com um diagnóstico
-            inicial — sem custo e sem compromisso.
-          </p>
+            <p className="mt-4 text-muted-foreground">
+              Preencha os campos abaixo. Retornamos em até 24 horas no WhatsApp com um diagnóstico
+              inicial — sem custo e sem compromisso.
+            </p>
         </div>
 
         <div className="mt-10 rounded-3xl border border-border bg-card p-6 shadow-sm sm:p-10">
