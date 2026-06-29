@@ -33,7 +33,7 @@ export function SiteHeader() {
         </nav>
         <div className="hidden md:block">
           <Button asChild size="sm" className="font-semibold">
-            <a href={waLink("Header", "conversar sobre meu negócio")} target="_blank" rel="noopener">
+            <a href="#contato">
               {CTA.hero}
             </a>
           </Button>
