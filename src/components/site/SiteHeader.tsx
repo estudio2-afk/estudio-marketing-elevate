@@ -3,7 +3,7 @@ import { Menu } from "lucide-react";
 import logo from "@/assets/logo.png";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger, SheetTitle } from "@/components/ui/sheet";
-import { waLink, CTA } from "@/lib/contact";
+import { CTA } from "@/lib/contact";
 
 const links = [
   { href: "#servicos", label: "Serviços" },
