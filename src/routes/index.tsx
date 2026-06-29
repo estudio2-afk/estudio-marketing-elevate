@@ -10,6 +10,7 @@ import { LocationSection } from "@/components/site/LocationSection";
 import { Testimonials, testimonials } from "@/components/site/Testimonials";
 import { CaseStudy } from "@/components/site/CaseStudy";
 import { FAQ, faqs } from "@/components/site/FAQ";
+import { LeadForm } from "@/components/site/LeadForm";
 import { FinalCTA } from "@/components/site/FinalCTA";
 import { SiteFooter } from "@/components/site/SiteFooter";
 import { WhatsAppFloat } from "@/components/site/WhatsAppFloat";
