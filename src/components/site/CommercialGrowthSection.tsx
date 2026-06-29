@@ -56,9 +56,7 @@ export function CommercialGrowthSection() {
               </p>
             </div>
             <a
-              href={waLink("Seção Crescimento", "saber mais sobre acompanhamento comercial e vendas")}
-              target="_blank"
-              rel="noopener"
+              href="#contato"
               className="mt-8 inline-flex items-center gap-2 rounded-lg bg-primary px-6 py-3 text-base font-semibold text-primary-foreground shadow-glow hover:bg-primary/90 transition-colors"
             >
               {CTA.hero}
