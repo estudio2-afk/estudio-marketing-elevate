@@ -27,7 +27,7 @@ export function Hero() {
 
           <div className="mt-8 flex flex-col gap-3 sm:flex-row">
             <Button asChild size="lg" className="h-12 px-6 text-base font-semibold shadow-glow">
-              <a href={waLink("Hero", "conversar sobre meu negócio")} target="_blank" rel="noopener">
+              <a href="#contato">
                 {CTA.hero}
                 <ArrowRight className="ml-1 h-5 w-5" />
               </a>
