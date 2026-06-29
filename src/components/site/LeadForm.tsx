@@ -399,7 +399,7 @@ export function LeadForm() {
                 type="submit"
                 size="lg"
                 disabled={form.formState.isSubmitting}
-                className="h-14 w-full bg-primary text-base font-semibold text-primary-foreground shadow-[var(--shadow-glow)] hover:bg-primary/90"
+                className="h-auto min-h-14 w-full bg-primary px-4 py-3 text-center text-sm font-semibold leading-tight text-primary-foreground shadow-[var(--shadow-glow)] hover:bg-primary/90 sm:px-6 sm:text-base"
               >
                 {form.formState.isSubmitting ? (
                   <>
@@ -408,8 +408,8 @@ export function LeadForm() {
                   </>
                 ) : (
                   <>
-                    Quero conversar sobre meu negócio
-                    <ArrowRight className="ml-1 h-5 w-5" />
+                    <span className="flex-1 text-center">Quero conversar sobre meu negócio</span>
+                    <ArrowRight className="ml-1 h-5 w-5 shrink-0" />
                   </>
                 )}
               </Button>
