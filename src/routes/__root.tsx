@@ -107,6 +107,7 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
         type: "text/javascript",
         children: "window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-FJK55EFB4C');",
       },
+    ],
   }),
   shellComponent: RootShell,
   component: RootComponent,
